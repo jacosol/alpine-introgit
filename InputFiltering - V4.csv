@@ -35,9 +35,8 @@ NHANES,questionnaire_medical_conditions,thyroid_disease,MCQ170I,still_have_thyro
 NHANES,questionnaire_medical_conditions,bronchitis,MCQ160K,ever_told_chronic_bronchitis,categorical,,,,,1,1,FALSE,TRUE,TRUE
 NHANES,questionnaire_medical_conditions,bronchitis,MCQ170K,still_chronic_bronchitis,categorical,,,,,1,1,FALSE,TRUE,FALSE
 NHANES,questionnaire_medical_conditions,liver_disease,MCQ160L,ever_told_liver_condition,categorical,,,,,1,1,FALSE,TRUE,TRUE
-NHANES,questionnaire_medical_conditions,liver_disease,MCQ170L,still_liver_condition,categorical,,,,,1,1,FALSE,TRUE,FALSE
 NHANES,questionnaire_medical_conditions,cancer,MCQ220,cancer,categorical,,,,,1,1,FALSE,TRUE,TRUE
-NHANES,questionnaire_diabetes,diabetes,DIQ010,diabetes,categorical,,,,,1,"1,3",FALSE,TRUE,TRUE
+NHANES,questionnaire_diabetes,diabetes,DIQ010,CHRISTMAS,categorical,,,,,1,"1,3",FALSE,TRUE,TRUE
 NHANES,questionnaire_kidney_conditions,kidney,KIQ022,failing_kidneys,categorical,,,,,1,1,FALSE,TRUE,TRUE
 NHANES,questionnaire_kidney_conditions,kidney,KIQ020,failing_kidneys,categorical,,,,,1,1,FALSE,TRUE,TRUE
 NHANES,questionnaire_kidney_conditions,kidney,KIQ025,dialysis,categorical,,,,,1,1,FALSE,TRUE,TRUE
